@@ -1,2 +1,2 @@
-# python-tutorial-infrastructure
+# Pyton tutorial infrastructure
 Python tutorial infrastructure
